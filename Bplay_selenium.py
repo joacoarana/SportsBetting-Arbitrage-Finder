@@ -16,7 +16,7 @@ from selenium.webdriver.chrome.options import Options
 pd.set_option('display.max_columns', None)
 #%%BPLAY
 
-path = "C:/Users/rjara/OneDrive/Desktop/chromedriver_win32/chromedriver.exe"
+path = ""
 
 url_eng = 'https://deportespba.bplay.bet.ar/competicion/94-premier-league'
 url_fra = 'https://deportespba.bplay.bet.ar/competicion/96-ligue-1'
